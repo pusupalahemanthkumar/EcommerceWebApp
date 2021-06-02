@@ -1,0 +1,19 @@
+*{
+  color:#ffff;
+}
+main {
+  min-height: 100vh;
+}
+a{
+  text-decoration: none;
+}
+.rating span {
+  margin: 0.1rem;
+}
+
+@media (max-width: 768px) {
+  .search-bar-top {
+    margin-top: 1rem;
+  }
+}
+
